@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi Singh</h1>
 <h3 align="center">Developer | Cybersecurity Enthusiast | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=B.Tech+Student+%7C+Sharda+University+%7C+2022-2026;Cybersecurity+and+Development+Enthusiast;Always+Learning+%E2%9C%A8+Always+Building+%F0%9F%9B%A0" alt="Typing SVG" />
-</p>
 
 ---
 
